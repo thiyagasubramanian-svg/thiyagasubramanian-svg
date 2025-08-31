@@ -21,10 +21,10 @@ Cretae a chatbot that provides FDA recall history on  a certain month of year
 
 ## 🧠 Skills & Interests
 
-- Product Strategy & Roadmapping  
+- Product Strategy & execution Roadmaps
+- Capital planning
 - Healthcare Analytics & Compliance  
 - AI/ML Integration in Products  
-- Agile Methodologies & Team Leadership  
 - Market Expansion & Monetization  
 
 
